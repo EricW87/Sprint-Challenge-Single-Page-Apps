@@ -28,6 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ]  Explain benefit(s) using `client-side routing`?
 
 > Answer:
+This lets you maintain state on your website locally - you don't have to connect to the server to display another page if you've already downloaded the proper data. You don't have to refresh your page or load a new page which makes everything feel faster and smoother. React is designed to take advantage of client-side routing.
 
 ## Project Set Up
 
